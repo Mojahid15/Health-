@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NutriScan AI</string>
+    <string name="tagline">স্মার্ট ফুড ও পুষ্টি বিশ্লেষক</string>
+    <string name="scan_food">খাদ্য স্ক্যান করুন</string>
+    <string name="take_photo">ছবি তুলুন</string>
+    <string name="pick_gallery">গ্যালারি থেকে নিন</string>
+    <string name="analyzing_food">গুগল এআই দিয়ে বিশ্লেষণ করা হচ্ছে…</string>
+    <string name="nutrition_details">পুষ্টির বিস্তারিত তথ্য</string>
+    <string name="calories">ক্যালোরি</string>
+    <string name="protein">প্রোটিন</string>
+    <string name="carbs">কার্বোহাইড্রেট</string>
+    <string name="fat">ফ্যাট</string>
+    <string name="camera_permission_required">খাবার স্ক্যান করতে ক্যামেরার অনুমতি প্রয়োজন</string>
+    <string name="grant_permission">অনুমতি দিন</string>
+    <string name="history_title">পূর্ববর্তী স্ক্যান হিস্ট্রি</string>
+    <string name="no_history">এখনো কোনো খাদ্য স্ক্যান করা হয়নি</string>
+</resources>

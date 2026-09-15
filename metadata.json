@@ -1,0 +1,6 @@
+{
+  "name": "NutriScan AI",
+  "description": "গুগলের এআই প্রযুক্তি ব্যবহার করে খাদ্যদ্রব্যের রিয়েল-টাইম ক্যামেরা স্ক্যান এবং ক্যালোরি, ফ্যাট, কার্বোহাইড্রেট, প্রোটিনসহ পূর্ণাঙ্গ পুষ্টি উপাদান বিশ্লেষণ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
